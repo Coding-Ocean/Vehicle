@@ -154,7 +154,6 @@
   <ItemGroup>
     <ClCompile Include="createTriangle.cpp" />
     <ClCompile Include="gmain.cpp" />
-    <ClCompile Include="TARGET.cpp" />
     <ClCompile Include="VEHICLE.cpp" />
   </ItemGroup>
   <ItemGroup>
